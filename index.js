@@ -24,7 +24,7 @@ function temperature() {
     }
 }
 Re.addEventListener("click",function() {
-    document.getElementById("kel").value="";
-    document.getElementById("Celi").value="";
-    document.getElementById("far").value="";
+    document.getElementById("kel").value=" ";
+    document.getElementById("Celi").value=" ";
+    document.getElementById("far").value=" ";
 })
